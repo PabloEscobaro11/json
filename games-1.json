@@ -2,8 +2,8 @@
     {
       "name": "Ahri",
       "species" : "Vesani",
-      "foods": {
-        "things": ["tuna", "chicken"],
+      "things": {
+        "likes": ["tuna", "chicken"],
         "dislikes": ["ham", "zucchini"]
       }
     },
