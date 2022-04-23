@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Ahri",
+      "species" : "Vesani",
+      "foods": {
+        "things": ["tuna", "chicken"],
+        "dislikes": ["ham", "zucchini"]
+      }
+    },
+    {
+      "name": "Viego",
+      "species" : "Human",
+      "things": {
+        "likes": ["bones", "carrots"],
+        "dislikes": ["tuna"]
+      }
+    },
+    {
+      "name": "Isolde",
+      "species" : "Human",
+      "things": {
+        "likes": ["dolls"],
+        "dislikes": ["cookies"]
+      }
+    }
+  ]
